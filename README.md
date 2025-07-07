@@ -56,12 +56,9 @@
 ## 📊 GitHub Stats
 
 
-  <img src="https://streak-stats.demolab.com?user=EppaHarsha&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=EppaHarsha&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&layout=compact&theme=dark" alt="Top Languages" />
-
+![GitHub Streak](https://streak-stats.demolab.com?user=EppaHarsha&theme=dark&hide_border=false)
+![Eppa Harsha GitHub stats](https://github-readme-stats.vercel.app/api?username=EppaHarsha&theme=dark&show_icons=true&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&layout=compact&theme=dark&hide_border=false)
 
 ---
 

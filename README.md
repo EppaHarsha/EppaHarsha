@@ -61,8 +61,6 @@
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=EppaHarsha&show_icons=true&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&layout=compact&theme=dark&hide_border=false)
-
 ---
 
 ## 📫 Connect with me

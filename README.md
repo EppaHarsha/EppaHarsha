@@ -6,17 +6,16 @@
 
 - 🎓 Pre-final year CSE student at **CVR College of Engineering**
 - 💻 Aspiring full-stack developer, passionate about building websites and solving real-life problems with code
-- 🌱 Currently learning **Next.js** and improving my **DSA skills in Java**  
-- 👨‍💻 Working on projects using the **MERN Stack** and exploring new tools in web development   
+- 🌱 Currently learning **Next.js** and improving my **DSA skills in Java**
+- 👨‍💻 Working on projects using the **MERN Stack** and exploring new tools in web development
 - 📫 Reach me at: *eppaharsha13@gmail.com*
-- ⚡ *I get more excited about pushing code than pushing shopping carts.*
-
+- ⚡ _I get more excited about pushing code than pushing shopping carts._
 
 ---
 
 ## 📚 Education
 
-- *B.Tech ,CSE, **CVR COLLEGE OF ENGINEERING* (2023 - Present)  
+- _B.Tech ,CSE, \*\*CVR COLLEGE OF ENGINEERING_ (2023 - Present)
 
 ---
 
@@ -48,21 +47,25 @@
 
 ## 🔭 Projects & Highlights
 
-- 💬 [ Wandridge](https://github.com/EppaHarsha/Wandridge) —  A responsive MERN-based web app for listing and booking vacation homes, inspired by Airbnb's user flow and design.
+- 💬 [ Wandridge](https://github.com/EppaHarsha/Wandridge) — A responsive MERN-based web app for listing and booking vacation homes, inspired by Airbnb's user flow and design.
 - 👨‍💻 [ Smart Summarizer ](https://github.com/EppaHarsha/SmartSummarizer) — An easy-to-use Chrome Extension that summarizes the content of any webpage using Google Gemini AI. It's designed to help you get to the key points quickly, whether you're reading long articles or scanning a webpage
 - 🍔 [ Amazon-Auth-System ](https://github.com/EppaHarsha/Amazon-clone-Auth-System) — A real-time Amazon-like web application focused on user authentication and account management. This project replicates key features of the Amazon website with real-time functionality for a dynamic user experience.
+
 ---
 
 ## 📊 GitHub Stats
 
 ![Eppa Harsha GitHub stats](https://github-readme-stats.vercel.app/api?username=EppaHarsha&theme=dark&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&theme=dark&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=EppaHarsha&theme=dark&hide_border=false)
 
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=EppaHarsha&show_icons=true&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&layout=compact&theme=dark&hide_border=false)
 
 ---
 
 ## 📫 Connect with me
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eppa-harsha-vardhan-443b38325/" target="_blank">

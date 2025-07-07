@@ -56,8 +56,8 @@
 ## 📊 GitHub Stats
 
 ![Eppa Harsha GitHub stats](https://github-readme-stats.vercel.app/api?username=EppaHarsha&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&theme=dark&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=EppaHarsha&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&theme=dark&layout=compact)
 
 ---
 

@@ -59,8 +59,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&theme=dark&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=EppaHarsha&theme=dark&hide_border=false)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=EppaHarsha&show_icons=true&theme=dark&hide_border=false)
-
 ---
 
 ## 📫 Connect with me

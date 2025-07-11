@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats
 
 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=komalsathvik&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=EppaHarsha&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Eppa Harsha GitHub stats](https://github-readme-stats.vercel.app/api?username=EppaHarsha&theme=dark&show_icons=true&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&layout=compact&theme=dark&hide_border=false)
 

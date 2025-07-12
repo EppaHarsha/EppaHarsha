@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm E.Harsha Vardhan</h1>
+<h1 align="center">Hi 👋, I'm Eppa Harsha Vardhan</h1>
 
 <h3 align="center">A passionate pre-final year CSE student at CVR College of Engineering, aspiring full-stack web developer and DSA enthusiast..</h3>
 

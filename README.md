@@ -6,7 +6,7 @@
 
 - 🎓 Pre-final year CSE student at **CVR College of Engineering**
 - 💻 Aspiring full-stack developer, passionate about building websites and solving real-life problems with code
-- 🌱 Currently learning **Next.js** and improving my **DSA skills in Java**
+- 🌱 Currently learning ** TypeScript and Next.js** and improving my **DSA skills in Java**
 - 👨‍💻 Working on projects using the **MERN Stack** and exploring new tools in web development
 - 📫 Reach me at: *eppaharsha13@gmail.com*
 - ⚡ _I get more excited about pushing code than pushing shopping carts._

@@ -42,7 +42,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![API Authentication](https://img.shields.io/badge/API%20Auth-OAuth2%20%7C%20JWT-7B1FA2?style=for-the-badge&logo=auth0&logoColor=white)
-
+![TypeScript].(https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ---
 
 ## 🔭 Projects & Highlights

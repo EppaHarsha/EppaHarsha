@@ -1,3 +1,5 @@
+[![An image of @eppaharsha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eppaharsha)](https://holopin.io/@eppaharsha)
+
 <h1 align="center">Hi 👋, I'm Eppa Harsha Vardhan</h1>
 
 <h3 align="center">A passionate pre-final year CSE student at CVR College of Engineering, aspiring full-stack web developer and DSA enthusiast..</h3>

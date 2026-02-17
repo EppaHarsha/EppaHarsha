@@ -58,11 +58,14 @@
 ## 📊 GitHub Stats
 
 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=EppaHarsha&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Eppa Harsha GitHub stats](https://github-readme-stats.vercel.app/api?username=EppaHarsha&theme=dark&show_icons=true&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EppaHarsha&layout=compact&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=EppaHarsha&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats-two-wine-66.vercel.app/api/top-langs/?username=EppaHarsha&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats-two-wine-66.vercel.app/api?username=EppaHarsha&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
+
+
+
 
 ## 📫 Connect with me
 

@@ -65,6 +65,11 @@
 ![GitHub Stats](https://github-readme-stats-two-wine-66.vercel.app/api?username=EppaHarsha&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
 
 
+## 🧠 Data Structures & Algorithms
+
+I actively solve problems on *LeetCode* and *CodeChef* to sharpen my algorithmic skills.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/EppaHarsha?theme=dark&font=baloo&ext=heatmap)
 
 
 ## 📫 Connect with me
